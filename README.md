@@ -41,4 +41,4 @@ https://imgur.com/a/dreq5cY
 
 https://imgur.com/a/dkFnjgQ
 
-**Simple Lindens prototype executable coming soon, working through some bugs and have work tomorrow.**
+**Simple Lindens prototype executable coming soon, working through some Godot exporting Bugs**
